@@ -100,7 +100,7 @@ Parsed multi-value fields (e.g., languages, roles)
 Prevented frontend crashes from missing API fields
 Optimized filtering and aggregation logic
 
-###👨‍💻 Author
+### 👨‍💻 Author
 
 Built as a full-stack data analytics project for learning and portfolio purposes.
 
