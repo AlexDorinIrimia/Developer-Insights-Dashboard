@@ -42,7 +42,7 @@ It analyzes developer trends such as programming languages, job roles, salary di
 ---
 
 ## 📁 Project Structure
-`
+```
 project-root/
 │
 ├── backend/
@@ -61,7 +61,7 @@ project-root/
 │ ├── index.css
 │
 └── README.md
-`
+```
 
 ## ⚙️ Setup Instructions
 
