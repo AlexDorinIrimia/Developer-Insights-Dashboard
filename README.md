@@ -41,34 +41,12 @@ It analyzes developer trends such as programming languages, job roles, salary di
 
 ---
 
-## 📁 Project Structure
-```
-project-root/
-│
-├── backend/
-│ ├── app.py
-│ ├── analysis.py
-│ ├── survey_results_public.csv
-│
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── utils/
-│ │ ├── App.jsx
-│ │ ├── main.jsx
-│ │
-│ ├── index.css
-│
-└── README.md
-```
-
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
 ```
 git clone https://github.com/AlexDorinIrimia/Developer-Insights-Dashboard.git
-cd dev-insights-dashboard
+cd Developer-Insights-Dashboard
 ```
 ### Backend Setup
 ```
